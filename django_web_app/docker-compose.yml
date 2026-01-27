@@ -1,7 +1,0 @@
-services:
-  app:
-    build:
-      context: ./django_web_app
-    container_name: "django-apppp"
-    ports:
-      - "8000:8000"
