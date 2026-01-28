@@ -1,4 +1,4 @@
-# Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
+# Django-WebApp WITH DEVSECOPS implementation (check DEV-SEC-OPS folder for screenshots and steps how i deployed this project with devsecops principles )      <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
 
 This project was done by me as a assignment for an internship.
@@ -66,4 +66,5 @@ This project was done by me as a assignment for an internship.
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_16_14.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome 04-12-2019 13_41_50.png" height="400" width="800">
 <img src="Screenshots/Django WebApp - Google Chrome 03-12-2019 20_48_45.png" height="400" width="800">
+
 
